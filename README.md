@@ -1,6 +1,6 @@
 # Capstone 2 - Khan Academy User Retention Behavior Analysis
 
-Khan Academy is a free online education service that makes educational videos on a large variety of topics and subjects. Watching Khan Academy videos can be done across a variety of streaming services on both mobile and desktop platforms. The company also has a registerstration system implace on their website to track a user's educational journey. 
+Khan Academy is a free online education service that makes educational videos on a large variety of topics and subjects. Watching Khan Academy videos can be done across a variety of streaming services on both mobile and desktop platforms. The company also has a registration system implace on their website to track a user's educational journey. 
 
 ## Motivation 
 Khan Academy has users using their service across a variety of platforms and through a variety of languages. Taking a one month dataset of all user interactions the goal of this project is to determine which user behaviors or features best predict a return user. Knowing which features increase user retention would allow khan academy to focus on to increase return users. 
